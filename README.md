@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**bishalrajbanshi/bishalrajbanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bishal Rajbanshi 👋
 
-Here are some ideas to get you started:
+**Backend Developer | Node.js | NestJS | Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable and maintainable backend systems, APIs, and database architectures with modern technologies.
+
+---
+
+## 🛠️ Core Skills
+
+- **Backend:** Node.js, NestJS, Express, REST APIs, OOP, Microservices  
+- **Database:** MongoDB, PostgreSQL, MySQL  
+- **Tools & DevOps:** Git, Docker, Postman, Prisma, Redis  
+
+---
+
+## 📊 GitHub Stats
+
+![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishalrajbanshi&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Contact
+
+- **Email:** bishalrajbanshi.mail@gmail.com  
+- **LinkedIn:** [linkedin.com/in/bishalrajbanshi](https://www.linkedin.com/in/bishal-rajbanshi/)  
+
