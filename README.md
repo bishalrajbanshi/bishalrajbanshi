@@ -25,5 +25,5 @@ Building scalable and maintainable backend systems, APIs, and database architect
 ## 📫 Contact
 
 - **Email:** bishalrajbanshi.mail@gmail.com  
-- **LinkedIn:** [linkedin.com/in/bishalrajbanshi](https://www.linkedin.com/in/bishal-rajbanshi)  
+- **LinkedIn:** [linkedin.com/in/bishal-rajbanshi](https://www.linkedin.com/in/bishal-rajbanshi)  
 
