@@ -11,7 +11,8 @@ Building scalable and maintainable backend systems, APIs, and database architect
 ## 🛠️ Core Skills
 
 - **Backend:** Node.js, NestJS, Express, REST APIs, OOP, Microservices  
-- **Database:** MongoDB, PostgreSQL, MySQL  
+- **Database:** PostgreSQL, MySQL,MongoDB
+- **Orm: ** Prisma, Drizzle
 - **Tools & DevOps:** Git, Docker, Postman, Prisma, Redis  
 
 ---
