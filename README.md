@@ -16,12 +16,6 @@ Building scalable and maintainable backend systems, APIs, and database architect
 
 ---
 
-## 📊 GitHub Stats
-
-![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishalrajbanshi&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Contact
 
 - **Email:** bishalrajbanshi.mail@gmail.com  
