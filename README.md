@@ -24,6 +24,20 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bishalrajbanshi&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishalrajbanshi&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalrajbanshi&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
 ---
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=bishalrajbanshi&icon=0&color=0)
